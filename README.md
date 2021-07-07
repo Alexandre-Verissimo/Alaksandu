@@ -1,7 +1,8 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, I'm a brazilian Data Science studant, I love this area and work hard to be a great data scientist in the future.
-So, welcome to my space and feel free to see my projects
+My name is Alexandre Veríssimo, I'm a brazilian Developer studant, I love Data Science and Python Development, I work hard to be a great programmer and data scientist in the future.
+
+So, welcome to my space and feel free to see my projects.
 
 #### 🧠 "Knowledge is like a candle seen in the dark"
 
