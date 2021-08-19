@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, I'm a brazilian Developer studant, I love Data Science and Python Development, I work hard to be a great programmer and data scientist in the future.
+My name is Alexandre Veríssimo, i'm a brazilian Developer studant, i'm programmer Java and Python, Love Data Science and i work hard to be a great programmer and data scientist in the future.
 
 So, welcome to my space and feel free to see my projects.
 
