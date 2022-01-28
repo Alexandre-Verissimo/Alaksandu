@@ -1,13 +1,13 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, i'm a brazilian Developer studant, i'm programmer Java and Python, Love Data Science and i work hard to be a great programmer and data scientist in the future.
+My name is Alexandre Veríssimo, i'm a brazilian Developer studant, i'm programmer with knowledge of some tools such as Js, Html, Css, Java, Python, C#, Angular, Spring, Node, Love coding and i work hard to be a great programmer in the future.
 
 So, welcome to my space and feel free to see my projects.
 
 #### 🧠 "Knowledge is like a candle seen in the dark"
 
 - 🌍 Living in PB João Pessoa 
-- 💻 Developer Java, Python and Angular
+- 💻 Main Developer Js, Java, Python
 - 📚 Sharing my learning in Data Science on https://alaksandu.medium.com
 
 #### Contact
