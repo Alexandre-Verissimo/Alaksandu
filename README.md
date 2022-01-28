@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, i'm a brazilian Developer studant, i'm programmer with knowledge of some tools such as Js, Html, Css, Java, Python, C#, Angular, Spring, Node, Love coding and i work hard to be a great programmer in the future.
+My name is Alexandre Veríssimo, i'm a brazilian Developer studant, i'm programmer with knowledge of some tools such as Js, Html, Css, Java, Python, Angular, Spring, Node, Love coding and i work hard to be a great programmer in the future.
 
 So, welcome to my space and feel free to see my projects.
 
