@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, i'm a brazilian Data Scientist studant, My knowledge goes through Python, R, SQL-Server, Postgre-Sql, Oracle DB, SSDT, Power-Bi among others. Love coding and i work hard to be a great Data Scientist in the future.
+My name is Alexandre Veríssimo, i'm a brazilian Developer/Data Analyst studant, My knowledge goes through Python, R, SQL-Server, Postgre-Sql, Oracle DB, SSDT, Power-Bi among others. Love coding and i work hard to be a great Data Scientist in the future.
 
 So, welcome to my space and feel free to see my projects.
 
