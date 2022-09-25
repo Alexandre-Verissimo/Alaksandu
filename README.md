@@ -1,13 +1,13 @@
 ### Welcome 👋
 
-My name is Alexandre Veríssimo, i'm a brazilian Developer and Data Analyst studant, My knowledge goes through Python, Java, R, SQL-Server, Postgre-Sql among others. Love coding and i work hard to be a great Developer in the future.
+My name is Alexandre Veríssimo, i'm a brazilian Developer and Data Analyst studant, My knowledge goes through Python, Java, JS, SQL-Server, Postgre-Sql among others. Love coding and i work hard to be a great Developer in the future.
 
 So, welcome to my space and feel free to see my projects.
 
 #### 🧠 "Knowledge is like a candle seen in the dark"
 
 - 🌍 Living in PB João Pessoa 
-- 💻 Main Technologies Python, R, Sql-Server
+- 💻 Main Technologies Python, Java, JS
 - 📚 Sharing my learning in Data Science on https://alaksandu.medium.com
 
 #### Contact
